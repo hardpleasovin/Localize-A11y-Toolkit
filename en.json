@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Welcome",
+    "intro": "Intro text",
+    "button": "Click me"
+  },
+  "about": {
+    "description": "About our product"
+  }
+}
